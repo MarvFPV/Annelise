@@ -8,3 +8,5 @@ As this is basically an untested keyboard at this point, i have only released th
 Feel free to tinker around, also, enable "component colour cycling", makes the timeline and whole project much nicer to work with.
 
 More progess to this project will hopefully follow shortly. 
+
+![Pic of the case](https://github.com/MarvFPV/Annelise/blob/main/Images/AnneliseCase.jpg)
