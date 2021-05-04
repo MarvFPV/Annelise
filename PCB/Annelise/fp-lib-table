@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mxswitches)(type KiCad)(uri ${KIPRJMOD}/../../kicad-keyboard-parts/kicad-mx.pretty)(options "")(descr ""))
+)

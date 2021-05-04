@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name kicadkeebparts)(type Legacy)(uri ${KIPRJMOD}/../../kicad-keyboard-parts/kicad-mx.lib)(options "")(descr ""))
+)

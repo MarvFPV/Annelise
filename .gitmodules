@@ -1,0 +1,3 @@
+[submodule "kicad-keyboard-parts"]
+	path = kicad-keyboard-parts
+	url = https://github.com/ebastler/kicad-keyboard-parts.git
