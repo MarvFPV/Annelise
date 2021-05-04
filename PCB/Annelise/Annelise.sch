@@ -1512,4 +1512,42 @@ F 3 "http://www.diodes.com/_files/datasheets/ds11005.pdf" H 9670 1500 50  0001 C
 	1    9750 1500
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3800 3000 3850 3000
+Wire Wire Line
+	6950 3000 7000 3000
+Text GLabel 3000 6200 2    50   Input ~ 0
+Row0
+Text GLabel 3000 6100 2    50   Input ~ 0
+Row1
+Text GLabel 3000 6000 2    50   Input ~ 0
+Row2
+Text GLabel 3000 5900 2    50   Input ~ 0
+Row3
+Text GLabel 3000 6500 2    50   Input ~ 0
+Col0
+Text GLabel 3000 6400 2    50   Input ~ 0
+Col1
+Text GLabel 1700 7100 0    50   Input ~ 0
+Col2
+Text GLabel 1700 7000 0    50   Input ~ 0
+Col3
+Text GLabel 1700 6900 0    50   Input ~ 0
+Col4
+Text GLabel 1700 6800 0    50   Input ~ 0
+Col5
+Text GLabel 1700 6400 0    50   Input ~ 0
+Col6
+Text GLabel 1700 6300 0    50   Input ~ 0
+Col7
+Text GLabel 1700 6200 0    50   Input ~ 0
+Col8
+Text GLabel 1700 6100 0    50   Input ~ 0
+Col9
+Text GLabel 1700 6000 0    50   Input ~ 0
+Col10
+Text GLabel 1700 5900 0    50   Input ~ 0
+Col11
+Text GLabel 3000 7100 2    50   Input ~ 0
+Col12
 $EndSCHEMATC
